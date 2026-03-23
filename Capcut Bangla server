@@ -8,7 +8,7 @@
     "description": "Your current version is outdated. Join our Telegram channel to download the latest update and premium features.",
     "isForce": true,
     "isExpired": true,
-    "expiryDate": "2026-12-31",
+    "expiryDate": "2020-12-31",
     "closeButtonText": "Cancel",
     "updateButtonText": "Join Telegram"
   }
