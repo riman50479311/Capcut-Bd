@@ -2,14 +2,14 @@
   {
     "appName": "CapCut",
     "packageName": "com.lemon.lvoverseas",
-    "versionCode": 15500200,
+    "versionCode": 15500201,
     "updateUrl": "https://t.me/romanticboymizan1",
     "title": "New Update Available!",
-    "description": "Your current version is outdated. Join our Telegram channel to download the latest update and premium features.",
-    "isForce": false,
-    "isExpired": false,
-    "expiryDate": "2029-12-31",
+    "description": "Your current version is outdated. Please join our Telegram channel to download the latest premium update.",
+    "isForce": true,
+    "isExpired": true,
+    "expiryDate": "2026-04-22",
     "closeButtonText": "Cancel",
-    "updateButtonText": "Join Telegram"
+    "updateButtonText": "Update Now"
   }
 ]
