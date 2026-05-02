@@ -1,15 +1,15 @@
 [
   {
-    "appName": "CapCut",
-    "packageName": "com.lemon.lvoverseas",
-    "versionCode": 1,
-    "updateUrl": "https://t.me/romanticboymizan1",
+    "appName": "",
+    "packageName": "",
+    "versionCode": 0,
+    "updateUrl": "",
     "title": "",
     "description": "",
     "isForce": false,
     "isExpired": false,
-    "expiryDate": "2027-04-22",
-    "closeButtonText": "Cancel",
-    "updateButtonText": "Update Now"
+    "expiryDate": "2030-01-01",
+    "closeButtonText": "",
+    "updateButtonText": ""
   }
 ]
