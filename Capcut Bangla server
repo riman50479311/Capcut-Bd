@@ -6,8 +6,8 @@
     "updateUrl": "https://t.me/romanticboymizan1",
     "title": "New Update Available!",
     "description": "Your current version is outdated. Please join our Telegram channel to download the latest premium update.",
-    "isForce": true,
-    "isExpired": true,
+    "isForce": false,
+    "isExpired": false,
     "expiryDate": "2026-09-02",
     "closeButtonText": "Cancel",
     "updateButtonText": "Update Now"
